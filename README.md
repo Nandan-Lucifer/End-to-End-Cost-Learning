@@ -46,9 +46,9 @@ To use Deep-GED, you need Python 3 and the following dependencies:
 - PyTorch
 - NetworkX
 - Matplotlib
-- Triangular Losses (required for calculating Triangular Losses)
+- Gklearn for Graph files Dataset 
 
 You can install these dependencies using pip:
 
 ```bash
-pip install torch networkx matplotlib 
+pip install graphkit-learn
